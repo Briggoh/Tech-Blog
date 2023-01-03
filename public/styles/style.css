@@ -1,0 +1,35 @@
+* {
+    font-family: Lucida, sans-serif;
+}
+a {
+    text-decoration: none;
+    color: black
+}
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: white;
+    background-color: rgb(59, 19, 1);
+    margin: .5rem;
+}
+nav a{
+    color: white;
+    font-size: 2rem;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border:black;
+    margin: 0% 5%;
+    background-color: rgb(107, 4, 4);
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(107, 100, 4);
+    margin: 4rem;
+    padding: 2rem;
+}
