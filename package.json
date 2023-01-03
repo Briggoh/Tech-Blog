@@ -1,0 +1,19 @@
+{
+  "name": "tech-blog-1",
+  "version": "1.0.0",
+  "description": "A tech blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Briggoh/Tech-Blog.git"
+  },
+  "author": "Hayley Briggs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Briggoh/Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/Briggoh/Tech-Blog#readme"
+}
