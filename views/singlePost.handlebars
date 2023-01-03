@@ -1,0 +1,24 @@
+<div class="card" id="post" data-postId="{{postData.id}}">
+    <h2>Update Card</h2>
+    <form action="submit" id="update-form">
+        <div>
+            <label for="title-text">Title: </label>
+            <br>
+            <textarea id="title-text">{{postData.title}}</textarea>
+            <br>
+        </div>
+        <div>
+            <label for="content-text">Content: </label>
+            <br>
+            <textarea name="content-text" id="content-text" cols="30" rows="10">{{postData.content}}</textarea>
+            <br>
+        </div>
+        <button type="submit">Submit</button>
+    </form>
+</div>
+<div>
+    <button id="delete">Delete Post</button>
+</div>
+
+<script src="../../../js/editPost.js"></script>
+<script src="../../../js/logout.js"></script>
