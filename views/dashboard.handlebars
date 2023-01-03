@@ -1,0 +1,24 @@
+{{#each userPosts as |userPost|}}
+{{>dashCard}}
+{{/each}}
+
+<h2>New Post</h2>
+<form id="new-post">
+    <div>
+        <label for="post-title">Title:</label>
+        <br>
+        <input type="text" id="post-title">
+        <br>
+    </div>
+    <div>
+        <label for="post-text">Text:</label>
+        <br>
+        <textarea name="post-text" id="post-text" cols="30" rows="10"></textarea>
+        <br>
+    </div>
+    <div>
+        <button type="submit">Submit</button>
+    </div>
+</form>
+
+<script src="../js/post.js"></script>
