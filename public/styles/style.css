@@ -1,5 +1,6 @@
 * {
-    font-family: Lucida, sans-serif;
+    font-family: "Poppins";
+    text-align: center;
 }
 a {
     text-decoration: none;
@@ -15,6 +16,7 @@ nav {
 }
 nav a{
     color: white;
+    
     font-size: 2rem;
 }
 .container{
@@ -34,3 +36,14 @@ nav a{
     padding: 2rem;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
+
+#logout {
+  background-color:#624763; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+} 
