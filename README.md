@@ -10,7 +10,9 @@ https://hb-tech-blog.herokuapp.com/
 In order to properly run this app, you must install the dependencies. To accomplish this, run the command: ```npm i ```
 
 ## Preview 
-Attached below is a gif demonstrating the basic functionality of this application: 
+Attached below is a gif demonstrating the basic functionality of this application:
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/109489824/210625429-0421f66c-f617-4cb2-ad5c-41c75270e409.gif)
 
 
 
