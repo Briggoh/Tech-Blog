@@ -1,18 +1,17 @@
 # Tech Blog: An Online Space for Techies, by Techies. 
 ## Description 
-
+Extremely similar to websites like wordpress, this app acts as a virtual space for developers to share knowledge and connect with one another through posts. Beyond making posts, users are able to interact with one another and share their thoughts through comments! This app primarily utilizes the MVC, which employs the usage of technologies such as handlebars, mySQL, sequelize, Node.js, and various other npm packages. I have been struggling with heroku, so please be patient as I try and identify my errors. 
 
 ## Deployed Application 
 View the deployed application live at Heroku via the link below! 
 https://hb-tech-blog.herokuapp.com/
 
 ## Installation
-
+In order to properly run this app, you must install the dependencies. To accomplish this, run the command: ```npm i ```
 
 ## Preview 
+Attached below is a gif demonstrating the basic functionality of this application: 
 
-
-## Technologies Utilized
 
 
 ## Contributions 
